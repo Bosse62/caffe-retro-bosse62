@@ -1,0 +1,15 @@
+html body{
+    margin: 0;
+    /*font-family: 'Poiret One', sans-serif;
+    font-family: 'Spirax', sans-serif;*/
+}
+
+.navigation {
+    margin: 0;
+    font-family: 'Spirax', sans-serif;
+    color: #AAAAAA;
+}
+/*.navigation a {
+    font-family: 'Spirax', sans-serif;
+    color: #AAAAAA;
+}*/
